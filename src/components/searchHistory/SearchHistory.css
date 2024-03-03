@@ -1,0 +1,38 @@
+.search-history {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-history h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .search-history ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .search-history li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .search-history li:last-child {
+    border-bottom: none;
+  }
+  
+  .search-history a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .search-history a:hover {
+    color: #007BFF;
+  }
